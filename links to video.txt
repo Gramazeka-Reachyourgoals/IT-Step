@@ -1,0 +1,46 @@
+2019
+1 lesson(1L) 19.02
+numbers, type of data, operations, string, concatination, options, logic operation
+https://www.youtube.com/watch?v=wQWEdPuLBGs
+JS entry, IDE, variables, comments, TODO, una,bi,ter-narni oparations, levels of coding(senior,maddle,junior), trello
+https://www.youtube.com/watch?v=sVb96RRS4Yg
+2L 21.02
+variables, oparations with them, parseInt("5.3"), parseFloat("5.3"), typeOf, NaN, arrays, sorting in array
+adding .js files, lamp.js turns on/off by button, js output(console.log+), begins snake
+https://youtu.be/SuoV1Q9V4A4
+3L 26.02
+loops, arrays & double matrix, git+gitlab, creating & manage project on gitlab, branches
+https://youtu.be/MKgtUPS156A
+using method GET(XMLHttpRequest().open, .onload(), .send), .json & .xml, JSON.parse, pagination, result of pagination
+https://youtu.be/yp6wxxaDLMk
+4L 28.02
+callback of function, flags, sorting number(paired, odd), fuction(1st number, 2nd number) return true if number same,
+false if different, creating slider on JS, conditional(ternarni) operators - why should use
+how use JS+json+api with posts(photo+text), teacher don't know js & shows own project on it, lol,
+switch(){case 1: ...; case 2: ...;}, try{} catch(){} finally{}﻿
+https://youtu.be/ILoO6SfL1A4
+5L 05.03
+how to use knowledge we have for JS dev, logic operations(unification, crossing, cut)
+comparison of arrays, example of logic comparison on arrays, interval, timeouts, progress bar at top of page
+result  of progress bar, tree of goods, recursion theory, tree of goods, recursion practice, intermediate result
+https://youtu.be/AiN9eNHHgvs
+description of result, final result of tree of goods, explaining how works tree of goods in paint﻿
+https://youtu.be/qDoMp02S4vA
+continue explaining how works tree of goods in paint
+example in own project/how insert DOM into script+ternarni operators, onScroll, csrf validation
+explaning how to download and do homework(from gitlab)
+https://youtu.be/WU42FtkhbI8
+6L 06.03
+jQuery, installing jQuery($), how to check that $ works, search in array(search engine)
+result og search engine, highlighting finded text, result, if click on string it goes to our input field
+result, adding our input to list of news on page, result
+checking if such element exist we can't add it to list of news, result, toggleClass
+https://youtu.be/cAj821sSWBY
+creating sidemenu(gamburger menu) on site, what we gonna do, show() & example of use it
+result of show(), hide(), fadeIn(), fadeOut()
+create function what catch element when we scroll to it(like advertising), result
+business offer about phone numbers parse & sell send messages to this base of numbers
+https://youtu.be/rQOHVbkUBKc
+
+
+Time codes for class mates & me ^_^
